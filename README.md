@@ -60,7 +60,8 @@ The following audio features were used for clustering and similarity computation
    cd CodeAlpha_Music_Recommendation
 
 2. Install the required Python libraries:
-   ```pip install pandas numpy scikit-learn matplotlib
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib
 
 3. Make sure your dataset (data.csv) is in the same folder as the notebook/script.
 
