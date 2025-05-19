@@ -67,23 +67,23 @@ The following audio features were used for clustering and similarity computation
 
 4. Run the Python notebook or script.   
 
-📦 Example
+## 📦 Example
 
 input_song = "Soul Junction"
 recommended_songs = recommend_songs(input_song, df, num_recommendations=5)
 print(recommended_songs)
 
-📁 Repository Structure
+## 📁 Repository Structure
 CodeAlpha_Music_Recommendation/
 ├── data.csv
 ├── music_recommendation.ipynb
 ├── README.md
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Thanks to @CodeAlpha for this exciting internship opportunity and real-world ML project.
 
 
-📌 Author
+## 📌 Author
 Name: [Bilawal Mir]
 
 Internship: Machine Learning Intern at CodeAlpha
